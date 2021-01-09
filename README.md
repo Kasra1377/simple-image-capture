@@ -15,7 +15,7 @@ This app is in preliminary stage.It can just implement few simple tasks.In futur
 \
 This is a instance of overall app interface:\
 \
-[![image](https://www.linkpicture.com/q/Capture_9.png)]
+![image](https://www.linkpicture.com/q/Capture_9.png)
 
 
 ## Reporting Bugs and Issues
