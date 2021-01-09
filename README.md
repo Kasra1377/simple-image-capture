@@ -11,7 +11,11 @@ This is the app that dedicated to anybody who wants to gather image data for the
 \
 With this app you can capture multiple images as quickly as possible;You can set the duration time,this is a duration that the specific object is being captured.Setting a delay time and setting your path directory to save the images into your specific path.\
 \
-This app is in preliminary stage.It can just implement few simple tasks.In future updates many additional features will be brought into this application(i.e. cropping Image, flipping image, rotating image, etc.)
+This app is in preliminary stage.It can just implement few simple tasks.In future updates many additional features will be brought into this application(i.e. cropping Image, flipping image, rotating image, etc.)\
+\
+This is a instance of overall app interface:\
+\
+![alt text](https://www.linkpicture.com/view.php?img=LPic5ff95bca455561091165693 "App Interface")
 
 
 ## Reporting Bugs and Issues
