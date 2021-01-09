@@ -1,5 +1,12 @@
 # simple-image-capture
 
+##  Requirements
+
+1) Tkinter
+2) CV2
+
+## Description
+
 This is the app that dedicated to anybody who wants to gather image data for their Deep Learning project.This app somehow implement a simple Data Augmentation.\
 \
 With this app you can capture multiple pictures as quick as possible;You can set the duration time,this is a duration that the specific object is being captured.Setting a delay time and setting your path directory to save the images into your specific path.\
