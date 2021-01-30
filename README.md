@@ -20,5 +20,5 @@ This is a instance of overall app interface:\
 
 ## Reporting Bugs and Issues
 
-If you have any bug or issue with this app, please state that in the Issue section of this Repository.In addition to that, you can keep in touch with my self by this Gmail:\
+If you have any bug or issue with this app, please state that in the Issue section of this Repository.In addition to that, you can keep in touch with myself by this Gmail:\
 Kasra.211998@gmail.com
